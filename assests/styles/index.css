@@ -1,0 +1,86 @@
+@import url('https://fonts.cdnfonts.com/css/mulish');
+@import url('https://fonts.cdnfonts.com/css/poppins');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Mulish', sans-serif;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 503px;
+    margin-top: 58px;
+}
+
+.nav-menu {
+    display: flex;
+    align-items: center;
+    gap: 38px;
+}
+
+.nav-item {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #1F1534;
+    text-decoration: none;
+}
+
+.home {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.hero-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 93px;
+    margin-top: 80px;
+    margin-bottom: 190px;
+}
+
+.hero-info {
+    width: 440px;
+}
+
+.hero-info h1 {
+    margin: 0;
+    margin-bottom: 25px;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 56px;
+    color: #000000;
+}
+
+.hero-info p {
+    margin: 0;
+    margin-bottom: 45px;
+    font-weight: 300;
+    font-size: 21px;
+    line-height: 32px;
+    color: #7D7987;
+}
+
+.hero-info input {
+    font-family: 'Poppins';
+    background: #458FF6;
+    border-radius: 55px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 60px;
+    color: #FFFFFF;
+    border: none;
+    width: 200px;
+    height: 56px;
+}
+
+.hero-img {
+    width: 693px;
+    height: 598px;
+}
+
