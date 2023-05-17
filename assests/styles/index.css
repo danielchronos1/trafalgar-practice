@@ -188,3 +188,135 @@ nav {
     background-color: #FFFFFF;
 }
 
+.services-background1 {
+    position: absolute;
+    top: 1230px;
+    left: -266px;
+    width: 1118.54px;
+    height: 671.35px;
+    z-index: -1;
+}
+
+.services-background2 {
+    position: absolute;
+    left: 1278px;
+    top: 1580px;
+    z-index: -1;
+}
+
+.providers-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 137px;
+    margin-bottom: 229px;
+}
+
+.providers-text {
+    width: 486px;
+}
+
+.providers-text h1 {
+    margin: 0;
+    margin-bottom: 26px;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 56px;
+    color: #000000;
+}
+
+.providers-text p {
+    margin: 0;
+    margin-bottom: 37px;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987;
+    width: 400px;
+}
+
+.providers-text hr {
+    margin: 0;
+    margin-bottom: 36px;
+    background: #000000;
+    border-radius: 10px;
+    height: 2px;
+    width: 56px;
+}
+
+.providers-btn {
+    width: 200px;
+    background-color: #FFFFFF;
+    border: 1.4px solid #458FF6;
+    border-radius: 55px;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 60px;
+    color: #458FF6;
+}
+
+.app-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 71px;
+    margin-bottom: 251px;
+}
+
+.app-text {
+    width: 420px;
+}
+
+.app-text h1 {
+    margin: 0;
+    margin-bottom: 30px;
+    width: 265px;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    color: #000000;
+}
+
+.app-text hr {
+    margin: 0;
+    margin-bottom: 31px;
+    width: 56px;
+    height: 2px;
+    background: #000000;
+    border-radius: 6px;
+}
+
+.app-text p {
+    width: 380px;
+    margin: 0;
+    margin-bottom: 40px;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987;
+}
+
+.btn-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    border: 1.4px solid #458FF6;
+    border-radius: 55px;
+}
+
+.app-btn {
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 60px;
+    display: flex;
+    align-items: center;
+    color: #458FF6;
+    border: none;
+    background-color: transparent;
+}
+
